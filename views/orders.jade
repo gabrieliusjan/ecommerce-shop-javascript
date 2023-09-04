@@ -1,0 +1,9 @@
+extends layout
+
+block content
+  h1= title
+  p Welcome to #{title} page.
+  a(href="/") Logout
+  Ul
+    each val, key in rowData
+      li= key + '. ' + 'Username: ' + val.username + ' | ' + 'Password: ' + val.password + ' | ' + 'Order: ' + val.order_id
