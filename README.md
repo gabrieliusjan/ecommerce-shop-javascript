@@ -1,2 +1,2 @@
 # ecommerce-shop-javascript
-Ecommerce Shop - HTML/CSS/JavaScript/Node.js/SQL
+Ecommerce Shop - HTML/CSS/JavaScript/Node.js/SQL/PUG
